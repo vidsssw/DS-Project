@@ -1,4 +1,4 @@
-# DS-Project
+#SOS
 This is a tool which can be used by students to prioritize their subjects .
 
 The priority of the subjects is determined using 4 factors:
